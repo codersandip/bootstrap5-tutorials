@@ -1,0 +1,19 @@
+b {
+    font-style: italic;
+}
+
+.bold {
+    background-color: green;
+}
+
+.dash-border {
+    border: 1px dashed red;
+}
+
+#demo {
+    border: 1px solid black;
+}
+
+#demo1 {
+    padding: 30px;
+}
